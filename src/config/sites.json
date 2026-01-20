@@ -1,0 +1,116 @@
+{
+  "categories": [
+    {
+      "id": "dev",
+      "name": "开发工具",
+      "icon": "💻",
+      "sites": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "🐙",
+          "color": "#24292e"
+        },
+        {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "开发者问答社区",
+          "icon": "📚",
+          "color": "#f48024"
+        },
+        {
+          "name": "MDN",
+          "url": "https://developer.mozilla.org",
+          "description": "Web 开发文档",
+          "icon": "📖",
+          "color": "#000000"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI 工具",
+      "icon": "🤖",
+      "sites": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "description": "AI 对话助手",
+          "icon": "💬",
+          "color": "#10a37f"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "Anthropic AI 助手",
+          "icon": "🧠",
+          "color": "#d97757"
+        },
+        {
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "description": "AI 绘画工具",
+          "icon": "🎨",
+          "color": "#000000"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "设计资源",
+      "icon": "🎨",
+      "sites": [
+        {
+          "name": "Figma",
+          "url": "https://www.figma.com",
+          "description": "在线设计工具",
+          "icon": "✏️",
+          "color": "#f24e1e"
+        },
+        {
+          "name": "Dribbble",
+          "url": "https://dribbble.com",
+          "description": "设计师社区",
+          "icon": "🏀",
+          "color": "#ea4c89"
+        },
+        {
+          "name": "Behance",
+          "url": "https://www.behance.net",
+          "description": "创意作品展示",
+          "icon": "🎭",
+          "color": "#1769ff"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "name": "社交媒体",
+      "icon": "🌐",
+      "sites": [
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com",
+          "description": "社交网络平台",
+          "icon": "🐦",
+          "color": "#1da1f2"
+        },
+        {
+          "name": "Reddit",
+          "url": "https://www.reddit.com",
+          "description": "社区讨论平台",
+          "icon": "👽",
+          "color": "#ff4500"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "description": "视频分享平台",
+          "icon": "📺",
+          "color": "#ff0000"
+        }
+      ]
+    }
+  ]
+}
