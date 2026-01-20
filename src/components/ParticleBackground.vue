@@ -80,8 +80,13 @@ const drawConnections = () => {
 
   for (let i = 0; i < particles.length; i++) {
     for (let j = i + 1; j < particles.length; j++) {
-      const dx = particles[i].x - particles[j].x
-      const dy = particles[i].y - particles[j].y
+      const particleI = particles[i]
+      const particleJ = particles[j]
+      
+      if (!particleI || !particleJ) continue
+      
+      const dx = particleI.x - particleJ.x
+      const dy = particleI.y - particleJ.y
       const distance = Math.sqrt(dx * dx + dy * dy)
 
       if (distance < connectionDistance) {
@@ -89,8 +94,13 @@ const drawConnections = () => {
         ctx.beginPath()
         ctx.strokeStyle = `rgba(100, 200, 255, ${opacity})`
         ctx.lineWidth = 0.5
-        ctx.moveTo(particles[i].x, particles[i].y)
-        ctx.lineTo(particles[j].x, particles[j].y)
+        const particleI = particles[i]
+        const particleJ = particles[j]
+        
+        if (!particleI || !particleJ) continue
+        
+        ctx.moveTo(particleI.x, particleI.y)
+        ctx.lineTo(particleJ.x, particleJ.y)
         ctx.stroke()
       }
     }
