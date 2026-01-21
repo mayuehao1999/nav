@@ -30,7 +30,7 @@ onMounted(() => {
         <div class="header-content">
           <h1 class="title">
             <span class="title-icon">✨</span>
-            <span class="title-text">我的导航站</span>
+            <span class="title-text">星际导航中心</span>
           </h1>
           <div class="time-display">{{ currentTime }}</div>
         </div>
@@ -46,7 +46,7 @@ onMounted(() => {
       </main>
 
       <footer class="footer">
-        <p>Made with 💙 by You | Powered by Vue 3 + TypeScript</p>
+        <p>本人觉得有意义的网站收录</p>
       </footer>
     </div>
   </div>

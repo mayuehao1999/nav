@@ -1,58 +1,58 @@
 {
   "categories": [
     {
-      "id": "dev",
-      "name": "开发工具",
-      "icon": "💻",
+      "id": "crack",
+      "name": "破解资源",
+      "icon": "🔓",
       "sites": [
         {
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "🐙",
-          "color": "#24292e"
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/index.php",
+          "description": "破解站",
+          "icon": "💎",
+          "color": "#ff6b6b"
         },
         {
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "开发者问答社区",
-          "icon": "📚",
-          "color": "#f48024"
+          "name": "4FB软件",
+          "url": "https://4fb.cn/soft/",
+          "description": "破解站",
+          "icon": "📦",
+          "color": "#4ecdc4"
         },
         {
-          "name": "MDN",
-          "url": "https://developer.mozilla.org",
-          "description": "Web 开发文档",
-          "icon": "📖",
+          "name": "Cybermania",
+          "url": "https://www.cybermania.ws/",
+          "description": "Windows破解",
+          "icon": "🪟",
+          "color": "#0078d4"
+        },
+        {
+          "name": "Foxirj",
+          "url": "https://foxirj.com/",
+          "description": "Windows破解",
+          "icon": "💻",
+          "color": "#00a8e8"
+        },
+        {
+          "name": "Macked",
+          "url": "https://macked.app/",
+          "description": "Mac破解",
+          "icon": "🍎",
           "color": "#000000"
-        }
-      ]
-    },
-    {
-      "id": "ai",
-      "name": "AI 工具",
-      "icon": "🤖",
-      "sites": [
-        {
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "AI 对话助手",
-          "icon": "💬",
-          "color": "#10a37f"
         },
         {
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI 助手",
-          "icon": "🧠",
-          "color": "#d97757"
+          "name": "AppsTorrent",
+          "url": "https://appstorrent.ru/",
+          "description": "Mac破解",
+          "icon": "🍏",
+          "color": "#555555"
         },
         {
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI 绘画工具",
-          "icon": "🎨",
-          "color": "#000000"
+          "name": "TorrentMac",
+          "url": "https://www.torrentmac.net/",
+          "description": "Mac破解",
+          "icon": "🖥️",
+          "color": "#333333"
         }
       ]
     },
@@ -62,53 +62,74 @@
       "icon": "🎨",
       "sites": [
         {
-          "name": "Figma",
-          "url": "https://www.figma.com",
-          "description": "在线设计工具",
-          "icon": "✏️",
-          "color": "#f24e1e"
-        },
-        {
-          "name": "Dribbble",
-          "url": "https://dribbble.com",
-          "description": "设计师社区",
-          "icon": "🏀",
-          "color": "#ea4c89"
-        },
-        {
-          "name": "Behance",
-          "url": "https://www.behance.net",
-          "description": "创意作品展示",
-          "icon": "🎭",
-          "color": "#1769ff"
+          "name": "UI Prompt",
+          "url": "https://www.uiprompt.site/zh/styles",
+          "description": "UI的AI提示词网站",
+          "icon": "✨",
+          "color": "#a855f7"
         }
       ]
     },
     {
-      "id": "social",
-      "name": "社交媒体",
-      "icon": "🌐",
+      "id": "video",
+      "name": "视频生成",
+      "icon": "🎬",
       "sites": [
         {
-          "name": "Twitter",
-          "url": "https://twitter.com",
-          "description": "社交网络平台",
-          "icon": "🐦",
-          "color": "#1da1f2"
+          "name": "Wuli Art",
+          "url": "https://wuli.art/generate",
+          "description": "暂时免费视频生成网站",
+          "icon": "🎥",
+          "color": "#ff6b9d"
         },
         {
-          "name": "Reddit",
-          "url": "https://www.reddit.com",
-          "description": "社区讨论平台",
-          "icon": "👽",
-          "color": "#ff4500"
+          "name": "Gemini Video",
+          "url": "https://api.usegemini.xyz/",
+          "description": "有次数限制的视频网站",
+          "icon": "📹",
+          "color": "#4285f4"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI工具",
+      "icon": "🤖",
+      "sites": [
+        {
+          "name": "LM Arena",
+          "url": "https://lmarena.ai/zh",
+          "description": "AI工具网站",
+          "icon": "🧠",
+          "color": "#10a37f"
         },
         {
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "📺",
-          "color": "#ff0000"
+          "name": "X666",
+          "url": "https://x666.me/",
+          "description": "AI接口站",
+          "icon": "⚡",
+          "color": "#ff6b35"
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "name": "技术社区",
+      "icon": "👥",
+      "sites": [
+        {
+          "name": "Linux.do",
+          "url": "https://linux.do/latest",
+          "description": "技术交流社区",
+          "icon": "🐧",
+          "color": "#fcc419"
+        },
+        {
+          "name": "74110",
+          "url": "https://www.74110.net",
+          "description": "技术分享网站",
+          "icon": "📚",
+          "color": "#38bdf8"
         }
       ]
     }
